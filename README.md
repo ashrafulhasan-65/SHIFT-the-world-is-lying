@@ -1,120 +1,257 @@
 # SHIFT — The World Is Lying
 
-**Premium Browser-Based 3D Deception Racing Game Template**
+### A 3D Deception Racing Game
 
-A complete, single-file HTML5 racing game with Three.js, garage system, 100 missions, in-app store, upgrades, and procedural audio. Ready to reskin, rebrand, or integrate into your own product.
+**FirstCommit Hackathon 2026**
 
----
+SHIFT is a browser-based 3D racing and
+adventure game built with HTML, JavaScript,
+and Three.js.
 
-## Live Preview
-Contact the author for a private demo link.  
-*(Full source is delivered only after purchase.)*
+The game challenges players to navigate
+through deceptive roads, complete missions,
+unlock vehicles, and explore different regions.
 
----
+## 🎮 Project Overview
 
-## What You Get
-- `index.html` — complete game (single file, no build step)
-- Full source code (HTML + CSS + JavaScript + Three.js)
-- Documentation (this README)
-- Commercial usage rights according to your license tier
+SHIFT combines 3D driving, exploration,
+missions, and deception mechanics.
 
----
+Players must identify fake routes, avoid
+traps, complete challenges, and earn rewards.
 
-## Features
+## ✨ Features
 
-### Gameplay
-- 7 unique vehicles (Car, Truck, Motorcycle, Tank, Helicopter, Ship, SHIFT Prototype)
-- 100 missions across 10 regions with progressive difficulty
-- Boss levels every 10 missions
-- Deception system (fake road signs, hidden true routes, truth-discovery bonuses)
-- Drift, boost/nitro, ability system, cannon (tank)
-- Health & armor system with crash damage
+- 3D browser-based gameplay
+- 100 missions across 10 regions
+- 7 vehicle types
+- Vehicle upgrades and customization
+- Deception and hidden-route mechanics
+- Garage and vehicle collection
+- Credits and Mind Points
+- Procedural engine sounds
+- Original synthesized music
+- Mobile and desktop controls
+- Responsive interface
 
-### Garage & Progression
-- Vehicle unlock, select, paint (7 colors)
-- Upgrade system: Engine / Handling / Armor (5 levels each)
-- Collection / Fleet view
-- Credits & Mind Points economy
-- Mission rewards with truth-discovery multiplier
+## 🛠️ Technologies
 
-### Store & Monetization Ready
-- In-game store UI with credit & mind packs
-- Watch-ad reward button (ready to connect real ad SDK)
-- Background / world cosmetics unlockable with Mind Points
-- Payment link placeholders (Stripe / PayPal ready)
+- HTML5
+- CSS3
+- JavaScript
+- Three.js
+- Web Audio API
+- LocalStorage
 
-### Technical
-- Built with **Three.js** (r128)
-- Pure **Vanilla JavaScript** — no frameworks, no npm
-- **Web Audio API** — procedural engine sounds + original synth music
-- **localStorage** save system
-- Mobile-first touch controls (steering wheel, pedals, HUD)
-- Desktop keyboard support
-- Responsive UI (portrait + landscape)
-- Single-file architecture — easy to host anywhere
+## 🚀 How to Play
 
----
+1. Download or clone this repository.
+2. Open `index.html` in a modern browser.
+3. Start the game.
+4. Select a vehicle.
+5. Complete missions and explore the world.
 
-## Requirements
-- Modern browser: Chrome, Edge, Firefox, Safari (latest)
-- No server required for local play
-- Optional: any static host (GitHub Pages, Netlify, Vercel, own server)
+No server is required for local gameplay.
 
----
+## 🏆 FirstCommit Hackathon
 
-## How to Use
-1. Purchase and download the package
-2. Open `index.html` in a browser to test
-3. Upload `index.html` to any static hosting
-4. (Optional) Replace payment links, ad SDK, branding, colors, vehicle data
+This repository is being used for my
+FirstCommit Hackathon 2026 submission.
 
-### Customization Ideas
-- Change vehicle stats, names, colors in the `VEHICLES` array
-- Edit mission titles, rewards, regions
-- Swap logos / loading screen
-- Connect real Stripe Payment Links or ad networks
-- Add your own analytics
+### Development During the Hackathon
 
----
+This section documents the new work
+completed during the hackathon.
 
-## Licensing
+New features:
+- [Add the actual new feature]
+- [Add another feature, if completed]
 
-This is a **commercial source template**. All rights reserved by the author.
+Development process:
+- [Describe your actual work]
+- [Explain the challenges you faced]
+- [Describe what you learned]
 
-| License | Allowed | Not Allowed |
-|---------|---------|-------------|
-| **Regular** | 1 end product (your app/site), personal or client work | Resell source, redistribute as template, multiple SaaS products |
-| **Extended / Commercial** | Multiple end products, paid apps, SaaS, resale as part of a larger product | Resell the raw template as-is on other marketplaces |
+Only work actually completed during
+the hackathon will be listed here.
 
-- You may modify the code for your licensed end product
-- You may not redistribute or resell the original source as a competing template
-- Credits in code may be removed under Commercial license (check your invoice terms)
+## 🧠 Learning Journey
 
-For custom / unlimited licenses, contact the author.
+Through this project, I am exploring:
 
----
+- 3D game development
+- JavaScript programming
+- Game mechanics and interaction
+- Browser-based game optimization
+- Git and GitHub collaboration
+- Debugging and problem-solving
 
-## Support
-After purchase you receive:
-- Source file(s)
-- Basic setup guidance
-- Bug-fix support for the original template (reasonable period)
+## 🤖 AI Disclosure
 
-For license questions or custom work: contact via your purchase platform message system or the author’s listed profile.
+AI tools may have been used during
+development for brainstorming,
+debugging, learning, or assistance.
 
----
+The actual tools and their contributions
+will be disclosed accurately.
 
-## Changelog
-**v2.0**
-- Full 3D vehicle models & environments
-- 100 missions + deception system
-- Garage, upgrades, store, cosmetics
-- Procedural audio & music
-- Mobile HUD & controls
+## 📸 Screenshots and Demo
 
----
+Live Demo:
+[Add your working game URL]
 
-## Author
-**ashrafulhasan-65**
+Gameplay Video:
+[Add your demo video URL]
 
-Thank you for supporting original game templates.
+## 📦 Repository
+
+GitHub:
+https://github.com/ashrafulhasan-65/SHIFT-the-world-is-lying
+
+## 👨‍💻 Developer
+
+Ashraful Hasan Rafsan
+
+Bangladesh
+
+## 📜 Credits
+
+Three.js:
+https://threejs.org/
+
+All third-party assets, libraries,
+and resources should be credited here.
+
+## 📄 License
+
+This project is owned by its author.
+Please contact the author for licensing
+and commercial use.# SHIFT — The World Is Lying
+
+### A 3D Deception Racing Game
+
+**FirstCommit Hackathon 2026**
+
+SHIFT is a browser-based 3D racing and
+adventure game built with HTML, JavaScript,
+and Three.js.
+
+The game challenges players to navigate
+through deceptive roads, complete missions,
+unlock vehicles, and explore different regions.
+
+## 🎮 Project Overview
+
+SHIFT combines 3D driving, exploration,
+missions, and deception mechanics.
+
+Players must identify fake routes, avoid
+traps, complete challenges, and earn rewards.
+
+## ✨ Features
+
+- 3D browser-based gameplay
+- 100 missions across 10 regions
+- 7 vehicle types
+- Vehicle upgrades and customization
+- Deception and hidden-route mechanics
+- Garage and vehicle collection
+- Credits and Mind Points
+- Procedural engine sounds
+- Original synthesized music
+- Mobile and desktop controls
+- Responsive interface
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Three.js
+- Web Audio API
+- LocalStorage
+
+## 🚀 How to Play
+
+1. Download or clone this repository.
+2. Open `index.html` in a modern browser.
+3. Start the game.
+4. Select a vehicle.
+5. Complete missions and explore the world.
+
+No server is required for local gameplay.
+
+## 🏆 FirstCommit Hackathon
+
+This repository is being used for my
+FirstCommit Hackathon 2026 submission.
+
+### Development During the Hackathon
+
+This section documents the new work
+completed during the hackathon.
+
+New features:
+- [Add the actual new feature]
+- [Add another feature, if completed]
+
+Development process:
+- [Describe your actual work]
+- [Explain the challenges you faced]
+- [Describe what you learned]
+
+Only work actually completed during
+the hackathon will be listed here.
+
+## 🧠 Learning Journey
+
+Through this project, I am exploring:
+
+- 3D game development
+- JavaScript programming
+- Game mechanics and interaction
+- Browser-based game optimization
+- Git and GitHub collaboration
+- Debugging and problem-solving
+
+## 🤖 AI Disclosure
+
+AI tools may have been used during
+development for brainstorming,
+debugging, learning, or assistance.
+
+The actual tools and their contributions
+will be disclosed accurately.
+
+## 📸 Screenshots and Demo
+
+Live Demo:
+[Add your working game URL]
+
+Gameplay Video:
+[Add your demo video URL]
+
+## 📦 Repository
+
+GitHub:
+https://github.com/ashrafulhasan-65/SHIFT-the-world-is-lying
+
+## 👨‍💻 Developer
+
+Ashraful Hasan Rafsan
+
+Bangladesh
+
+## 📜 Credits
+
+Three.js:
+https://threejs.org/
+
+All third-party assets, libraries,
+and resources should be credited here.
+
+## 📄 License
+
+This project is owned by its author.
+Please contact the author for licensing
+and commercial use.
